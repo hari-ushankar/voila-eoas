@@ -16,3 +16,6 @@ voila
 ```
 jupyter lab
 ```
+
+## Open Issues
+- LaTeX not loading: https://github.com/voila-dashboards/voila/issues/516
