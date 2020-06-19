@@ -12,7 +12,7 @@ conda env create -f environment.yml
 This will open a tab in your browser showing the directory structure of voila-server.
 Click one of the notebooks (.ipynb files) to run it.
 ```
-voila
+voila --enable_nbextensions=True
 ```
 
 3. To work on these notebooks, open a second terminal, cd into the voila-eoas directory,

@@ -12,8 +12,10 @@ dependencies:
   - toml
   - pyarrow
   - voila
+  - ipyleaflet
   - ipywidgets
   - ipyvolume
+  - ipympl
   - bqplot
   - scipy
   - pip
