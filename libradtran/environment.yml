@@ -1,0 +1,18 @@
+name: example-environment
+channels:
+  - eoas_ubc
+  - conda-forge
+dependencies:
+  - python<3.9
+  - numpy
+  - libradtran
+  - rad_lib
+  - pandas
+  - matplotlib
+  - scipy
+  - pip
+  - dash
+  - plotly
+# conda-lock -f environment.yml -p linux-64
+# conda create --name radtran --file conda-linux-64.lock
+  
