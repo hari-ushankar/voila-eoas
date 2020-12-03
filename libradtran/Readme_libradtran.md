@@ -6,6 +6,8 @@ http://www.libradtran.org/doku.php
 
 conda-lock -f environment.yml -p linux-64
 conda create --name radtran --file
+conda activate radtran
+
 
 * example notebook
 
